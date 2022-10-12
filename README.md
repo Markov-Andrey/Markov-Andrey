@@ -8,7 +8,7 @@
 - 📫 I want to create my resume-website using HTML, CSS & JS
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markov-Andrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markov-Andrey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Markov-Andrey/Markov-Andrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
