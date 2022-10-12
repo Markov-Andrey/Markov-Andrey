@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Markov-Andrey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div style="text-align:center">[![trophy](https://github-profile-trophy.vercel.app/?username=Markov-Andrey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</div>
 
 
 - 👋 Hi, I’m @Markov-Andrey
