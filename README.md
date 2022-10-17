@@ -12,7 +12,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markov-Andrey)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-Markov-Andrey/Markov-Andrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Logo](https://https://github.com/Markov-Andrey/Markov-Andrey/blob/main/HTMLCSS.png)
+![Logo](https://https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Pug.png)
+![Logo](https://https://github.com/Markov-Andrey/Markov-Andrey/blob/main/SASS.png)
+![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/JS.png)
+![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/PHP.png)
+![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Laravel.png)
