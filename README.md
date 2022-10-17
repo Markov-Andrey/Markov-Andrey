@@ -19,4 +19,4 @@
 ![JS](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/JS.png)
 ![PHP](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/PHP.png)
 ![Laravel](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Laravel.png)
-![GIT](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/GIT.png)
+![GIT](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/GITHUB.png)
