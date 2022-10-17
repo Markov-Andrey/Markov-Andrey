@@ -13,9 +13,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markov-Andrey)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Logo](https://https://github.com/Markov-Andrey/Markov-Andrey/blob/main/HTMLCSS.png)
-![Logo](https://https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Pug.png)
-![Logo](https://https://github.com/Markov-Andrey/Markov-Andrey/blob/main/SASS.png)
+![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/HTMLCSS.png)
+![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Pug.png)
+![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/SASS.png)
 ![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/JS.png)
 ![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/PHP.png)
 ![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Laravel.png)
