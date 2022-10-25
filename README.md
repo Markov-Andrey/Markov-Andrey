@@ -1,4 +1,4 @@
-![Logo](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/1231312.png)
+<img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/1231312.png" width="670">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Markov-Andrey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
