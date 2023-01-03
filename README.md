@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Markov-Andrey from Belarus 🇧🇾
 - 👀 I’m interested in JS, PHP & Laravel
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning PHP (OOP)
 - 💞️ I invite everyone who studies JS to cooperate
 - 📫 I want to create my resume-website using HTML, CSS & JS
 
