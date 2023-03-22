@@ -4,10 +4,10 @@
 
 
 - 👋 Hi, I’m @Markov-Andrey from Belarus 🇧🇾
-- 👀 I’m interested in JS, PHP & Laravel
+- 👀 I’m interested in JS, PHP & Laravel, Tailwind, Livewire
 - 🌱 I’m currently learning PHP (OOP)
-- 💞️ I invite everyone who studies JS to cooperate
-- 📫 I want to create my resume-website using HTML, CSS & JS
+- 💞️ I invite everyone who studies and learns everything new to work together
+- 📫 I want to work with a cool team on a cool project
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markov-Andrey)](https://github.com/anuraghazra/github-readme-stats)
