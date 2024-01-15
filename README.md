@@ -17,6 +17,8 @@ My current stack <br>
 <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Pug.png" height="53">
 <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/SASS.png" height="53">
 <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/JS.png" height="53">
+<img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/vue-js.png" height="53">
+<img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/next-js.svg" height="53">
 <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/PHP.png" height="53">
 <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Laravel.png" height="53">
 <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/GITHUB.png" height="53">
