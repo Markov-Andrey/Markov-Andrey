@@ -4,9 +4,9 @@
 
 
 - 👋 Hi, I’m @Markov-Andrey from Belarus 🇧🇾
-- 👀 I’m interested in JS, PHP & Laravel, Tailwind, Livewire
-- 🌱 I’m currently learning PHP (OOP)
-- 💞️ I invite everyone who studies and learns everything new to work together
+- 👀 I’m interested in JS (Next & Vue 3), PHP (Laravel), Python,  Tailwind
+- 🌱 I’m currently learning Python
+- 💞️I invite everyone to my project - Personal assistant for D&D players and masters (Mythic Library)
 - 📫 I want to work with a cool team on a cool project
 
 
