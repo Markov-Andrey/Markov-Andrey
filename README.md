@@ -19,6 +19,5 @@ My current stack <br>
 ![JS](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/JS.png)
 ![PHP](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/PHP.png)
 ![Laravel](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Laravel.png)
-![GIT](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/GITHUB.png)
-![DOCKER](https://github.com/Markov-Andrey/Markov-Andrey/blob/main/docker.png)
+<img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/GITHUB.png" height="53">
 <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/docker.png" height="53">
