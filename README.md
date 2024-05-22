@@ -14,34 +14,6 @@
 
 ## My Tech Stack
 
-### Front-End
-<p align="left">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/HTMLCSS.png" height="53">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Pug.png" height="53">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/SASS.png" height="53">
-  <br>
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/JS.png" height="53">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vue-js.png" height="53">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/next-js.svg" height="53">
-</p>
-
-### Back-End
-<p align="left">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PHP.png" height="53">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Laravel.png" height="53">
-</p>
-
-### Additional Tools
-<p align="left">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/GITHUB.png" height="53">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/docker.png" height="53">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="53">
-  <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/swagger.png" height="53">
-</p>
-
-
-## My Tech Stack
-
 | Front-End                                                                                                                                                                                                                                                                                         | Back-End | Additional Tools |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------------|
 | <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/HTMLCSS.png" height="53"> <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Pug.png" height="53"> <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/SASS.png" height="53"><br><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/JS.png" height="53"> <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vue-js.png" height="53"> <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/next-js.svg" height="53">  | <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PHP.png" height="53"> <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Laravel.png" height="53"> | <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/GITHUB.png" height="53"> <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/docker.png" height="53"> <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="53"> <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/swagger.png" height="53"> |
