@@ -15,7 +15,7 @@
 ## My Tech Stack
 
 ### Front-End
-<p align="center">
+<p align="left">
   <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/HTMLCSS.png" height="53">
   <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Pug.png" height="53">
   <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/SASS.png" height="53">
@@ -26,13 +26,13 @@
 </p>
 
 ### Back-End
-<p align="center">
+<p align="left">
   <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/PHP.png" height="53">
   <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/Laravel.png" height="53">
 </p>
 
 ### Additional Tools
-<p align="center">
+<p align="left">
   <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/GITHUB.png" height="53">
   <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/docker.png" height="53">
   <img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/postman.svg" height="53">
