@@ -28,7 +28,7 @@
 |-----------------------------|-------------------------------------------------------------------------------------------------------|
 | **Version Control**         | <a href="https://git-scm.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/GITHUB.png" height="40"></a> [Git](https://git-scm.com/) |
 | **Containerization & Deployment** | <a href="https://www.docker.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/docker.png" height="40"></a> [Docker](https://www.docker.com/) |
-| **Testing & Documentation** | <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="40"></a> [Postman](https://www.postman.com/) <br> <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="40"></a> [Swagger](https://swagger.io/) |
+| **Testing & Documentation** | <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="40"></a> [Postman](https://www.postman.com/) <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="40"></a> [Swagger](https://swagger.io/) |
 
 ## Проекты:
 
