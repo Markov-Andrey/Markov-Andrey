@@ -14,94 +14,31 @@
 
 ### 1. Front-End Development
 
-- **Programming Languages**:  
-  <a href="https://ru.wikipedia.org/wiki/JavaScript"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/JS.png" height="30"></a> [JavaScript](https://ru.wikipedia.org/wiki/JavaScript)
-
-- **Frameworks**:  
-  <a href="https://vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vue-js.png" height="30"></a> [Vue.js](https://vuejs.org/)
-  <a href="https://nextjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/next-js.svg" height="30"></a> [Next.js](https://nextjs.org/)
-
-- **Markup & Styling**:  
-  <a href="https://ru.wikipedia.org/wiki/HTML"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/HTML.png" height="30"></a> [HTML](https://ru.wikipedia.org/wiki/HTML)
-  <a href="https://ru.wikipedia.org/wiki/CSS"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/CSS.png" height="30"></a> [CSS](https://ru.wikipedia.org/wiki/CSS)
-  <a href="https://pugjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Pug.png" height="30"></a> [Pug](https://pugjs.org/)
-  <a href="https://sass-lang.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/SASS.png" height="30"></a> [SASS](https://sass-lang.com/)
-
-- **State Management**:  
-  <a href="https://vuex.vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/VueX.png" height="30"></a> [VueX](https://vuex.vuejs.org/)
-
-- **Libraries**:  
-  <a href="https://tailwindcss.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/tailwind.png" height="30"></a> [TailwindCSS](https://tailwindcss.com/)
-  <a href="https://jquery.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/jquery.svg" height="30"></a> [jQuery](https://jquery.com/)
-  <a href="https://flowbite.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/flowbite.png" height="30"></a> [Flowbite](https://flowbite.com/)
+| Category             | Logo                                                                                           | Name                                                                                           |
+|----------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Languages**        | <a href="https://ru.wikipedia.org/wiki/JavaScript"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/JS.png" height="30"></a> | [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) |
+| **Frameworks**       | <a href="https://vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vue-js.png" height="30"></a> | [Vue.js](https://vuejs.org/) <br> <a href="https://nextjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/next-js.svg" height="30"></a> |
+| **Markup & Styling** | <a href="https://ru.wikipedia.org/wiki/HTML"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/HTML.png" height="30"></a> | [HTML](https://ru.wikipedia.org/wiki/HTML) <br> <a href="https://ru.wikipedia.org/wiki/CSS"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/CSS.png" height="30"></a> [CSS](https://ru.wikipedia.org/wiki/CSS) <br> <a href="https://pugjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Pug.png" height="30"></a> [Pug](https://pugjs.org/) <br> <a href="https://sass-lang.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/SASS.png" height="30"></a> [SASS](https://sass-lang.com/) |
+| **State Management** | <a href="https://vuex.vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/VueX.png" height="30"></a> | [VueX](https://vuex.vuejs.org/) |
+| **Libraries**        | <a href="https://tailwindcss.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/tailwind.png" height="30"></a> | [TailwindCSS](https://tailwindcss.com/) <br> <a href="https://jquery.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/jquery.svg" height="30"></a> [jQuery](https://jquery.com/) <br> <a href="https://flowbite.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/flowbite.png" height="30"></a> [Flowbite](https://flowbite.com/) |
 
 ### 2. Back-End Development
 
-- **Programming Languages**:
-  <a href="https://www.php.net/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PHP.png" height="30"></a> [PHP](https://www.php.net/)
-  <a href="https://www.python.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Python.png" height="30"></a> [Python](https://www.python.org/)
-
-- **Frameworks**:
-  <a href="https://laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Laravel.png" height="30"></a> [Laravel](https://laravel.com/)
-
-- **Libraries & Tools**:
-  <a href="https://github.com/PHPOffice/PhpSpreadsheet"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PhpSpreadsheet.png" height="30"></a> [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
-  <a href="https://github.com/PHPOffice/PHPWord"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Word.png" height="30"></a> [PHPWord](https://github.com/PHPOffice/PHPWord)
-  <a href="https://www.chartjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chartjs.png" height="30"></a> [Chart.js](https://www.chartjs.org/)
-
-- **APIs**:
-  <a href="https://discord.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/discord.png" height="30"></a> [Discord API](https://discord.com/)
-  <a href="https://telegram.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/telegram.png" height="30"></a> [Telegram API](https://telegram.org/)
-  <a href="https://www.openai.com/chatgpt"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chatgpt.png" height="30"></a> [ChatGPT API](https://www.openai.com/chatgpt) 
-  <a href="https://gemini.google.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/gemini-ai.png" height="30"></a> [Google Gemini API](https://gemini.google.com/)
-
-- **Admin Panels**:  
-  <a href="https://backpackforlaravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/backpack-of-laravel.png" height="30"></a> [Backpack for Laravel](https://backpackforlaravel.com/)
-  <a href="https://moonshine-laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/moonshine.png" height="30"></a> [MoonShine](https://moonshine-laravel.com/)
+| Category             | Logo                                                                                           | Name                                                                                           |
+|----------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Programming Languages** | <a href="https://www.php.net/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PHP.png" height="30"></a> | [PHP](https://www.php.net/) <br> <a href="https://www.python.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Python.png" height="30"></a> [Python](https://www.python.org/) |
+| **Frameworks**       | <a href="https://laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Laravel.png" height="30"></a> | [Laravel](https://laravel.com/) |
+| **Libraries & Tools** | <a href="https://github.com/PHPOffice/PhpSpreadsheet"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PhpSpreadsheet.png" height="30"></a> | [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) <br> <a href="https://github.com/PHPOffice/PHPWord"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Word.png" height="30"></a> [PHPWord](https://github.com/PHPOffice/PHPWord) <br> <a href="https://www.chartjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chartjs.png" height="30"></a> [Chart.js](https://www.chartjs.org/) |
+| **APIs**             | <a href="https://discord.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/discord.png" height="30"></a> | [Discord API](https://discord.com/) <br> <a href="https://telegram.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/telegram.png" height="30"></a> [Telegram API](https://telegram.org/) <br> <a href="https://www.openai.com/chatgpt"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chatgpt.png" height="30"></a> [ChatGPT API](https://www.openai.com/chatgpt) <br> <a href="https://gemini.google.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/gemini-ai.png" height="30"></a> [Google Gemini API](https://gemini.google.com/) |
+| **Admin Panels**     | <a href="https://backpackforlaravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/backpack-of-laravel.png" height="30"></a> | [Backpack for Laravel](https://backpackforlaravel.com/) <br> <a href="https://moonshine-laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/moonshine.png" height="30"></a> [MoonShine](https://moonshine-laravel.com/) |
 
 ### 3. Development Tools
 
-- **Version Control**:  
-  <a href="https://git-scm.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/GITHUB.png" height="30"></a> [Git](https://git-scm.com/)
-
-- **Containerization & Deployment**:  
-  <a href="https://www.docker.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/docker.png" height="30"></a> [Docker](https://www.docker.com/)
-
-- **Testing & Documentation**:  
-  <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="30"></a> [Postman](https://www.postman.com/)
-  <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="30"></a> [Swagger](https://swagger.io/)
-
-
-
-## Tech Stack
-
-### 1. Front-End Development
-
-| Category             | Logo & Name                                                                                           |
-|----------------------|-------------------------------------------------------------------------------------------------------|
-| **Languages**        | <a href="https://ru.wikipedia.org/wiki/JavaScript"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/JS.png" height="30"></a> [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) |
-| **Frameworks**       | <a href="https://vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vue-js.png" height="30"></a> [Vue.js](https://vuejs.org/) <br> <a href="https://nextjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/next-js.svg" height="30"></a> [Next.js](https://nextjs.org/) |
-| **Markup & Styling** | <a href="https://ru.wikipedia.org/wiki/HTML"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/HTML.png" height="30"></a> [HTML](https://ru.wikipedia.org/wiki/HTML) <br> <a href="https://ru.wikipedia.org/wiki/CSS"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/CSS.png" height="30"></a> [CSS](https://ru.wikipedia.org/wiki/CSS) <br> <a href="https://pugjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Pug.png" height="30"></a> [Pug](https://pugjs.org/) <br> <a href="https://sass-lang.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/SASS.png" height="30"></a> [SASS](https://sass-lang.com/) |
-| **State Management** | <a href="https://vuex.vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/VueX.png" height="30"></a> [VueX](https://vuex.vuejs.org/) |
-| **Libraries**        | <a href="https://tailwindcss.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/tailwind.png" height="30"></a> [TailwindCSS](https://tailwindcss.com/) <br> <a href="https://jquery.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/jquery.svg" height="30"></a> [jQuery](https://jquery.com/) <br> <a href="https://flowbite.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/flowbite.png" height="30"></a> [Flowbite](https://flowbite.com/) |
-
-### 2. Back-End Development
-
-| Category             | Logo & Name                                                                                           |
-|----------------------|-------------------------------------------------------------------------------------------------------|
-| **Programming Languages** | <a href="https://www.php.net/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PHP.png" height="30"></a> [PHP](https://www.php.net/) <br> <a href="https://www.python.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Python.png" height="30"></a> [Python](https://www.python.org/) |
-| **Frameworks**       | <a href="https://laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Laravel.png" height="30"></a> [Laravel](https://laravel.com/) |
-| **Libraries & Tools** | <a href="https://github.com/PHPOffice/PhpSpreadsheet"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PhpSpreadsheet.png" height="30"></a> [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) <br> <a href="https://github.com/PHPOffice/PHPWord"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Word.png" height="30"></a> [PHPWord](https://github.com/PHPOffice/PHPWord) <br> <a href="https://www.chartjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chartjs.png" height="30"></a> [Chart.js](https://www.chartjs.org/) |
-| **APIs**             | <a href="https://discord.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/discord.png" height="30"></a> [Discord API](https://discord.com/) <br> <a href="https://telegram.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/telegram.png" height="30"></a> [Telegram API](https://telegram.org/) <br> <a href="https://www.openai.com/chatgpt"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chatgpt.png" height="30"></a> [ChatGPT API](https://www.openai.com/chatgpt) <br> <a href="https://gemini.google.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/gemini-ai.png" height="30"></a> [Google Gemini API](https://gemini.google.com/) |
-| **Admin Panels**     | <a href="https://backpackforlaravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/backpack-of-laravel.png" height="30"></a> [Backpack for Laravel](https://backpackforlaravel.com/) <br> <a href="https://moonshine-laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/moonshine.png" height="30"></a> [MoonShine](https://moonshine-laravel.com/) |
-
-### 3. Development Tools
-
-| Category                    | Logo & Name                                                                                           |
-|-----------------------------|-------------------------------------------------------------------------------------------------------|
-| **Version Control**         | <a href="https://git-scm.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/GITHUB.png" height="30"></a> [Git](https://git-scm.com/) |
-| **Containerization & Deployment** | <a href="https://www.docker.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/docker.png" height="30"></a> [Docker](https://www.docker.com/) |
-| **Testing & Documentation** | <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="30"></a> [Postman](https://www.postman.com/) <br> <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="30"></a> [Swagger](https://swagger.io/) |
+| Category                    | Logo                                                                                           | Name                                                                                           |
+|-----------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Version Control**         | <a href="https://git-scm.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/GITHUB.png" height="30"></a> | [Git](https://git-scm.com/) |
+| **Containerization & Deployment** | <a href="https://www.docker.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/docker.png" height="30"></a> | [Docker](https://www.docker.com/) |
+| **Testing & Documentation** | <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="30"></a> | [Postman](https://www.postman.com/) <br> <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="30"></a> [Swagger](https://swagger.io/) |
 
 ## Проекты:
 
