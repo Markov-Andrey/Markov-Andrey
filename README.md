@@ -71,6 +71,40 @@
   <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="30"></a> [Postman](https://www.postman.com/)
   <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="30"></a> [Swagger](https://swagger.io/)
 
+
+
+## Tech Stack
+
+### 1. Front-End Development
+
+| Languages                                                                                           |
+|------------------------------------------------------------------------------------------------|
+| <a href="https://ru.wikipedia.org/wiki/JavaScript"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/JS.png" height="30"></a> [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) |
+
+| Frameworks                                                                                           |
+|------------------------------------------------------------------------------------------------|
+| <a href="https://vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vue-js.png" height="30"></a> [Vue.js](https://vuejs.org/) |
+| <a href="https://nextjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/next-js.svg" height="30"></a> [Next.js](https://nextjs.org/) |
+
+| Markup & Styling                                                                                           |
+|------------------------------------------------------------------------------------------------|
+| <a href="https://ru.wikipedia.org/wiki/HTML"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/HTML.png" height="30"></a> [HTML](https://ru.wikipedia.org/wiki/HTML) |
+| <a href="https://ru.wikipedia.org/wiki/CSS"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/CSS.png" height="30"></a> [CSS](https://ru.wikipedia.org/wiki/CSS) |
+| <a href="https://pugjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Pug.png" height="30"></a> [Pug](https://pugjs.org/) |
+| <a href="https://sass-lang.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/SASS.png" height="30"></a> [SASS](https://sass-lang.com/) |
+
+| State Management                                                                                           |
+|------------------------------------------------------------------------------------------------|
+| <a href="https://vuex.vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/VueX.png" height="30"></a> [VueX](https://vuex.vuejs.org/) |
+
+| Libraries                                                                                           |
+|------------------------------------------------------------------------------------------------|
+| <a href="https://tailwindcss.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/tailwind.png" height="30"></a> [TailwindCSS](https://tailwindcss.com/) |
+| <a href="https://jquery.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/jquery.svg" height="30"></a> [jQuery](https://jquery.com/) |
+| <a href="https://flowbite.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/flowbite.png" height="30"></a> [Flowbite](https://flowbite.com/) |
+
+
+
 ## Проекты:
 
 ### Основное:
