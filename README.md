@@ -37,23 +37,27 @@
 
 ### 2. Back-End Development
 
-- **Programming Languages**:  
+- **Programming Languages**:
   <a href="https://www.php.net/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PHP.png" height="30"></a> [PHP](https://www.php.net/)
   <a href="https://www.python.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Python.png" height="30"></a> [Python](https://www.python.org/)
 
-- **Frameworks**:  
+- **Frameworks**:
   <a href="https://laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Laravel.png" height="30"></a> [Laravel](https://laravel.com/)
 
-- **Libraries & Tools**:  
+- **Libraries & Tools**:
   <a href="https://github.com/PHPOffice/PhpSpreadsheet"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PhpSpreadsheet.png" height="30"></a> [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
   <a href="https://github.com/PHPOffice/PHPWord"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Word.png" height="30"></a> [PHPWord](https://github.com/PHPOffice/PHPWord)
   <a href="https://www.chartjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chartjs.png" height="30"></a> [Chart.js](https://www.chartjs.org/)
 
-- **APIs**:  
+- **APIs**:
   <a href="https://discord.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/discord.png" height="30"></a> [Discord API](https://discord.com/)
   <a href="https://telegram.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/telegram.png" height="30"></a> [Telegram API](https://telegram.org/)
   <a href="https://www.openai.com/chatgpt"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chatgpt.png" height="30"></a> [ChatGPT API](https://www.openai.com/chatgpt) 
   <a href="https://gemini.google.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/gemini-ai.png" height="30"></a> [Google Gemini API](https://gemini.google.com/)
+
+- **Admin Panels**:  
+  <a href="https://backpackforlaravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/backpack-of-laravel.png" height="30"></a> [Backpack for Laravel](https://backpackforlaravel.com/)
+  <a href="https://moonshine-laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/moonshine.png" height="30"></a> [MoonShine](https://moonshine-laravel.com/)
 
 ### 3. Development Tools
 
@@ -66,12 +70,6 @@
 - **Testing & Documentation**:  
   <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="30"></a> [Postman](https://www.postman.com/)
   <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="30"></a> [Swagger](https://swagger.io/)
-
-### 4. Admin Panel Frameworks
-
-- **Admin Panel Frameworks**:  
-  <a href="https://backpackforlaravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/backpack-of-laravel.png" height="30"></a> [Backpack for Laravel](https://backpackforlaravel.com/)
-  <a href="https://moonshine-laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/moonshine.png" height="30"></a> [MoonShine](https://moonshine-laravel.com/)
 
 ## Проекты:
 
