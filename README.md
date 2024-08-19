@@ -10,6 +10,69 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://splidejs.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/splidejs.png" height="53"></a> <a href="https://laravel-livewire.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/livewire.png" height="53"></a> <a href="https://tailwindcss.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/tailwind.png" height="53"></a> <a href="https://jquery.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/jquery.svg" height="53"></a> <br> <a href="https://flowbite.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/flowbite.png" height="53"></a> <a href="https://github.com/PHPOffice/PhpSpreadsheet"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PhpSpreadsheet.png" height="53"></a> <a href="https://github.com/PHPOffice/PHPWord"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Word.png" height="53"></a> <a href="https://www.chartjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chartjs.png" height="53"></a> <br> <a href="https://vue3-lite-table.vercel.app/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vue3-lite-table.svg" height="53"></a> <a href="https://vueform.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vueform.png" height="53"></a> | <a href="https://discord.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/discord.png" height="53"></a> <a href="https://telegram.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/telegram.png" height="53"></a> <a href="https://www.openai.com/chatgpt"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chatgpt.png" height="53"></a> <a href="https://gemini.google.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/gemini-ai.png" height="53"></a> <br> <a href="http://nbrb.by/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/nbrb.png" height="53"></a> <a href="https://www.coingecko.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/coingecko.png" height="53"></a> | <a href="https://backpackforlaravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/backpack-of-laravel.png" height="53"></a> <a href="https://moonshine-laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/moonshine.png" height="53"></a> |
 
+## Tech Stack
+
+### 1. Front-End Development
+
+- **Programming Languages**:  
+  <a href="https://ru.wikipedia.org/wiki/JavaScript"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/JS.png" height="30"></a> [JavaScript](https://ru.wikipedia.org/wiki/JavaScript) — основной язык программирования для фронтенда, используемый для создания интерактивных веб-страниц.
+
+- **Frameworks**:  
+  <a href="https://vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/vue-js.png" height="30"></a> [Vue.js](https://vuejs.org/) — прогрессивный фреймворк для построения пользовательских интерфейсов.  
+  <a href="https://nextjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/next-js.svg" height="30"></a> [Next.js](https://nextjs.org/) — фреймворк для React-приложений с поддержкой серверного рендеринга.
+
+- **Markup & Styling**:  
+  <a href="https://ru.wikipedia.org/wiki/HTML"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/HTML.png" height="30"></a> [HTML](https://ru.wikipedia.org/wiki/HTML) — язык гипертекстовой разметки для создания структуры веб-страниц.  
+  <a href="https://ru.wikipedia.org/wiki/CSS"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/CSS.png" height="30"></a> [CSS](https://ru.wikipedia.org/wiki/CSS) — язык стилей, используемый для оформления веб-страниц.  
+  <a href="https://pugjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Pug.png" height="30"></a> [Pug](https://pugjs.org/) — шаблонизатор для HTML, упрощающий создание разметки.  
+  <a href="https://sass-lang.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/SASS.png" height="30"></a> [SASS](https://sass-lang.com/) — CSS-препроцессор, добавляющий дополнительные возможности в стилизации.
+
+- **State Management**:  
+  <a href="https://vuex.vuejs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/VueX.png" height="30"></a> [VueX](https://vuex.vuejs.org/) — библиотека управления состоянием для Vue.js-приложений.
+
+- **Libraries**:  
+  <a href="https://tailwindcss.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/tailwind.png" height="30"></a> [TailwindCSS](https://tailwindcss.com/) — утилитарный CSS-фреймворк для быстрого создания адаптивных интерфейсов.  
+  <a href="https://jquery.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/jquery.svg" height="30"></a> [jQuery](https://jquery.com/) — JavaScript-библиотека, упрощающая работу с DOM.  
+  <a href="https://flowbite.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/flowbite.png" height="30"></a> [Flowbite](https://flowbite.com/) — библиотека компонентов на основе TailwindCSS.
+
+### 2. Back-End Development
+
+- **Programming Languages**:  
+  <a href="https://www.php.net/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PHP.png" height="30"></a> [PHP](https://www.php.net/) — популярный язык программирования для серверной части веб-приложений.  
+  <a href="https://www.python.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Python.png" height="30"></a> [Python](https://www.python.org/) — мощный язык программирования, используемый для различных задач, включая веб-разработку.
+
+- **Frameworks**:  
+  <a href="https://laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Laravel.png" height="30"></a> [Laravel](https://laravel.com/) — PHP-фреймворк для разработки веб-приложений, известный своей элегантностью и простотой.
+
+- **Libraries & Tools**:  
+  <a href="https://github.com/PHPOffice/PhpSpreadsheet"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/PhpSpreadsheet.png" height="30"></a> [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) — библиотека для работы с электронными таблицами в PHP.  
+  <a href="https://github.com/PHPOffice/PHPWord"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Word.png" height="30"></a> [PHPWord](https://github.com/PHPOffice/PHPWord) — библиотека для работы с документами Word в PHP.  
+  <a href="https://www.chartjs.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chartjs.png" height="30"></a> [Chart.js](https://www.chartjs.org/) — JavaScript-библиотека для создания интерактивных графиков и диаграмм.
+
+- **APIs**:  
+  <a href="https://discord.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/discord.png" height="30"></a> [Discord API](https://discord.com/) — API для интеграции с платформой Discord.  
+  <a href="https://telegram.org/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/telegram.png" height="30"></a> [Telegram API](https://telegram.org/) — API для работы с Telegram-ботами и интеграции.  
+  <a href="https://www.openai.com/chatgpt"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/chatgpt.png" height="30"></a> [ChatGPT API](https://www.openai.com/chatgpt) — API для использования модели GPT в приложениях.  
+  <a href="https://gemini.google.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/gemini-ai.png" height="30"></a> [Google Gemini API](https://gemini.google.com/) — API от Google для использования моделей машинного обучения.
+
+### 3. Development Tools
+
+- **Version Control**:  
+  <a href="https://git-scm.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/GITHUB.png" height="30"></a> [Git](https://git-scm.com/) — система контроля версий для отслеживания изменений в коде.
+
+- **Containerization & Deployment**:  
+  <a href="https://www.docker.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/docker.png" height="30"></a> [Docker](https://www.docker.com/) — платформа для контейнеризации приложений, упрощающая их развертывание и управление.
+
+- **Testing & Documentation**:  
+  <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="30"></a> [Postman](https://www.postman.com/) — инструмент для тестирования API.  
+  <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="30"></a> [Swagger](https://swagger.io/) — инструмент для создания и документирования API.
+
+### 4. Admin Panel Frameworks
+
+- **Admin Panel Frameworks**:  
+  <a href="https://backpackforlaravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/backpack-of-laravel.png" height="30"></a> [Backpack for Laravel](https://backpackforlaravel.com/) — фреймворк для создания административных панелей на Laravel.  
+  <a href="https://moonshine-laravel.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/moonshine.png" height="30"></a> [MoonShine](https://moonshine-laravel.com/) — административная панель для Laravel-приложений.
+
 ## Проекты:
 
 ### Основное:
