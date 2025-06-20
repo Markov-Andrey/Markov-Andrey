@@ -32,7 +32,7 @@
 | **Containerization & Deployment** | <a href="https://www.docker.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/docker.png" height="50"></a>                                                                                                                                        |
 | **Testing & Documentation**       | <a href="https://www.postman.com/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/postman.svg" height="50"></a> <a href="https://swagger.io/"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/Swagger.png" height="50"></a> |
 
-### 4. Fan
+### 4. Fun
 | Category                  | Logo & Name                                                                                                                                         |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages** | <a href="https://wowpedia.fandom.com/wiki/JASS"><img src="https://github.com/Markov-Andrey/Markov-Andrey/blob/main/icons/jass.png" height="50"></a> |
